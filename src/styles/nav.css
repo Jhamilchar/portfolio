@@ -1,0 +1,79 @@
+
+.header-portfolio {
+  height: 100vh;
+  width: 100%;
+  /* background: linear-gradient(to bottom, #000000, #444444, #C0C0C0); */
+  background-image: url(../img/test3.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.header-portfolio nav {
+  width: 85%;
+  height: auto;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 2.3rem;
+}
+
+.logo {
+  width: 6rem;
+}
+
+ul {
+  display: flex;
+  gap: 9rem;
+}
+
+ul li a {
+  color: rgba(255, 255, 255, 0.89);
+  font-size: 1.7rem;
+  font-family: 'Genos', sans-serif;
+  font-weight: 500;
+  margin-bottom: 1rem;
+
+}
+
+ul li a:hover {
+  text-decoration: underline;
+}
+
+.wraper-info {
+  height: 80%;
+  display: flex;
+  width: 90%;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.wraper-description {
+  margin: 0 auto;
+}
+
+.presentation{
+  color: #ffffff;
+  margin: 0;
+  font-size: 1.7rem;
+  font-family: 'Genos', sans-serif;
+  font-weight: 500;
+  line-height: 3.3rem;
+}
+
+.full-name {
+  color: #e7e7e7;
+  margin: 0;
+  font-size: 4rem;
+  font-family: 'Genos', sans-serif;
+  line-height: 5rem;
+}
+
+.description {
+  color: #ffffff;
+  margin: 0;
+  font-size: 4rem;
+  font-family: 'Genos', sans-serif;
+  line-height: 5.3rem;
+}
