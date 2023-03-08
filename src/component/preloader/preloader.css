@@ -2,6 +2,7 @@
   height: 100vh;
   width: 100%;
   background: #000000;
+  font-family: 'Genos', sans-serif;
   color: #fff;
   position: fixed;
   bottom: 0;
@@ -19,8 +20,8 @@
   align-items: center;
   justify-content: space-between;
   height: 60px;
-  width: 300px;
-  font-size: 20px;
+  width: 370px;
+  font-size: 28px;
   font-weight: 800;
   overflow: hidden;
   color: #fff;

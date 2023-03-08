@@ -20,6 +20,7 @@
 }
 
 .logo {
+  margin-left: 4rem;
   width: 6rem;
 }
 
@@ -43,8 +44,9 @@ ul li a:hover {
 
 .wraper-info {
   height: 80%;
-  display: flex;
   width: 90%;
+  display: flex;
+  margin-top: 4rem;
   align-items: center;
   justify-content: space-between;
 }
